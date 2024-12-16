@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 12/12/24
+![Screenshot 2024-12-16 102539](https://github.com/user-attachments/assets/d8219ec8-61cb-4d1e-85c0-1e0e59a44b07)# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 16/12/24
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -49,21 +49,18 @@
 
 ## OUTPUT
 
-![Screenshot 2024-12-12 104327](https://github.com/user-attachments/assets/3f986cfc-9c6e-4a85-831a-cfa060592c72)
-
-![Screenshot 2024-12-12 105444](https://github.com/user-attachments/assets/5f136484-b45e-49d2-acd6-2e9b02174316)
-
-![Screenshot 2024-12-12 110131](https://github.com/user-attachments/assets/87e78173-8477-4cbe-9f87-e90ecbc808c3)
-
-![Screenshot 2024-12-12 111217](https://github.com/user-attachments/assets/a2ac2d70-9962-4670-a12a-f908c5d9e0c9)
-
+![Screenshot 2024-12-16 102323](https://github.com/user-attachments/assets/b346908d-e8a1-4851-bfe5-d6b07948b6a6)
+![Screenshot 2024-12-16 102518](https://github.com/user-attachments/assets/25e0531c-b4c5-4237-b3f7-cf234feb339b)
+![Screenshot 2024-12-16 102530](https://github.com/user-attachments/assets/c5f7f02e-aba1-4fb5-bfa4-9b942525d8db)
+![Screenshot 2024-12-16 102539](https://github.com/user-attachments/assets/1ccb24e7-00dd-4197-af2a-3f150c770904)
 
 ## Output:
-![Screenshot 2024-12-12 103227](https://github.com/user-attachments/assets/18991419-8cce-4b26-8dd5-6cfc53c468fd)
+![Screenshot 2024-12-16 101751](https://github.com/user-attachments/assets/711ca39c-df4e-42ed-8805-f2bee53d7be4)
 
 
-### Name: R.Rubasri
-### Register Number:24900054
+
+### Name: SK. Sai kripa
+### Register Number:24005319
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
